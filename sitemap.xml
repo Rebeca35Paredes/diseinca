@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://diseinca.com/</loc>
+  <lastmod>2020-12-14T03:36:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/index.php</loc>
+  <lastmod>2020-12-14T03:36:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/productos.html</loc>
+  <lastmod>2020-12-14T03:17:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/producto/cemento.html</loc>
+  <lastmod>2020-12-14T02:49:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/producto/ceramica.html</loc>
+  <lastmod>2020-12-14T02:49:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/producto/pintura.html</loc>
+  <lastmod>2020-12-14T02:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/producto/recubrimiento.html</loc>
+  <lastmod>2020-12-14T02:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diseinca.com/producto/mortero.html</loc>
+  <lastmod>2020-12-14T02:49:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
